@@ -57,10 +57,6 @@ const listMessage = {
 text: `╭─「 Sapito_Bot🐸 」
 ║❥Hola, ${name}! Espero que tengas un lindo día o noche!!
 ║❥Creador del Bot: wa.me/595983186566
-║❥Grupos del Bot
-║❥https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC
-║❥Envia ¨Bot¨ para ver los Grupos del Bot.
-║❥Envia los comandos sin * * ¨ ¨ ( )
 ║ 
 ╰────
 *Sapitobot*`, footer: ``, pp,
