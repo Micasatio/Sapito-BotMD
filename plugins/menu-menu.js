@@ -421,7 +421,7 @@ conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/Micasatio/Sapito-BotM
 ['🌹 𝙾𝚆𝙽𝙴𝚁 🌹', '/owner'],
 ['🐾 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 🐾', '/infobot']
 ], m,)
-await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, {
+await conn.sendFile(m.chat, vn, 'fiesta.mp3', null, m, true, {
 type: 'audioMessage', 
 ptt: true})
 } catch (e) {
