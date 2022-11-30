@@ -61,7 +61,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-[![BrunoSobrino](https://github.com/Micasatio/Sapito_Bot-MD/blob/master/Menu2.jpg?raw=truesize=100)](https://github.com/Micasatio/) 
+[![BrunoSobrino](https://github.com/Micasatio/Sapito-BotMD/blob/master/Menu2.jpg?raw=truesize=100)](https://github.com/Micasatio/) 
 
 `Sapito - Bot __________ By SNT OFC y Alexis_With-Logic`
 
