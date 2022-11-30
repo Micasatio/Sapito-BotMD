@@ -56,31 +56,10 @@ let name = await conn.getName(m.sender)
 const listMessage = {
 text: `╭─「 Sapito_Bot🐸 」
 ║❥Hola, ${name}! Espero que tengas un lindo día o noche!!
-║
 ║❥Creador del Bot: wa.me/595983186566
-║
-║❥Tu SN es: 98
-║
-║❥💰Coins restantes:  4
-║
-║❥Tu nivel es: 99
-║
-║❥ XP en Total 48
-║
 ║❥Grupos del Bot
-║
 ║❥https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC
-║❥https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC
-║❥https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC
-║
 ║❥Envia ¨Bot¨ para ver los Grupos del Bot.
-║
-║❥
-║
-║❥
-║
-║❥
-║
 ║❥Envia los comandos sin * * ¨ ¨ ( )
 ║ 
 ╰────
