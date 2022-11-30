@@ -18,8 +18,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone 
-> cd 
+> git clone https://github.com/Micasatio/Sapito-BotMD
+> cd Sapito-BotMD
 > npm install
 > yarn install 
 > npm install
@@ -31,7 +31,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd TheMystic-Bot-MD
+> cd Sapito-BotMD
 > npm start
 ```
 
@@ -39,7 +39,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd 
+> cd Sapito-BotMD
 > rm -rf session.data.json
 > npm start
 ```
