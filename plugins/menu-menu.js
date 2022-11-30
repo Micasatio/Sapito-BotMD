@@ -64,13 +64,9 @@ text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length
 
 let str = `
 *ミ💖 Hola ✨${name}✨, Este Es El Menú De Sapito_Bot 💖彡*
-
 *📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}*
-
 *🕰️ 𝙷𝙾𝚁𝙰: ${time}*
-
 *📈 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}*
-
 *📊 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂: ${rtotalreg}*
 
 *<𝕀ℕ𝔽𝕆ℝ𝕄𝔸ℂ𝕀𝕆ℕ 𝔻𝔼𝕃 𝔹𝕆𝕋/>*
@@ -420,8 +416,8 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟👑 _${usedPrefix}añadirdiamantes *<@tag> <cantidad>*_
 ° ඬ⃟👑 _${usedPrefix}añadirxp *<@tag> <cantidad>*_
 `.trim()
-conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/BrunoSobrino/TheMystic-Bot-MD', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
-['📮 𝙳𝙾𝙽𝙰𝚁 📮', '/donasi'],
+conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/Micasatio/Sapito-BotMD', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+['Menu de audios ▶️ ', '/menuaudios'],
 ['🌹 𝙾𝚆𝙽𝙴𝚁 🌹', '/owner'],
 ['🐾 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 🐾', '/infobot']
 ], m,)
